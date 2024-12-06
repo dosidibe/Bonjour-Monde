@@ -1,0 +1,17 @@
+---
+title: "hello world"
+author: "Sidibé Doriane"
+date: "2024-12-06"
+output: html_document
+---
+```{r}
+print("bonjour le monde ceci est mon premier code")
+```
+
+
+
+
+
+
+
+
